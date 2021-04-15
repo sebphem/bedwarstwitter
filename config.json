@@ -1,6 +1,6 @@
 {  
-    "consumer_key": "enter-api-key-here" ,  
-    "consumer_secret": "enter-api-secret-here",  
-    "access_token_key": "enter-access-token-here",  
-    "access_token_secret": "enter-access-token-secret-here"  
+    "consumer_key": "enter-your-api-key-here" ,  
+    "consumer_secret": "enter-your-api-secret-here",  
+    "access_token_key": "enter-your-access-token-here",  
+    "access_token_secret": "enter-your-access-token-secret-here"  
 }
