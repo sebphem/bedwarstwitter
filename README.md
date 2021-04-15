@@ -2,6 +2,8 @@
 
 This is a small project that I am proud of.
 
+![Screenshot 2021-04-15 140031](https://user-images.githubusercontent.com/48408649/114890724-ceb0a500-9dfa-11eb-8538-d02c14372f74.jpg)
+
 # How to set it up
 
 - Go to twitter devlopper portal
